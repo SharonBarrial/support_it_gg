@@ -60,3 +60,58 @@ What’s the most likely reason the projector suddenly shut down?
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 second attemp
+Question 1:
+Which computer component is a connection point that allows a computer to connect to other devices?
+✅ Port
+
+Question 2:
+What is the function of RAM on a computer?
+✅ It acts as a computer’s short term memory.
+(This is the best and most complete answer.)
+
+Question 3:
+What does it mean that RAM is volatile?
+✅ The data stored in RAM is cleared when the device is turned off.
+
+Question 4:
+Which of the following are considered mobile devices?
+✅ E-readers
+✅ Fitness monitors
+✅ Smartphones
+❌ Surge protectors
+
+Question 5:
+Which problem(s) can replacing a device’s battery solve?
+✅ A device that shuts down unexpectedly
+x An overheated device (in some cases, as faulty batteries can overheat)
+❌ A damaged hard drive
+❌ A slow device (RAM or SSD upgrade is more relevant here)
+
+Question 6:
+What units are used to represent data transfer rates?
+✅ MB/s
+✅ Mb/s
+(MB/s = megabytes per second, Mb/s = megabits per second; both are used depending on context)
+❌ MB (this measures size, not transfer rate)
+❌ Mb (same)
+
+Question 7:
+Which component manages high-speed data flow between CPU, RAM, and video card?
+✅ Northbridge
+
+Question 8:
+Which RPM speed indicates the fastest hard drive?
+✅ 10,000 RPM
+
+Question 9:
+Why might someone choose to upgrade their computer's storage?
+✅ They want their computer to boot up and load programs faster.
+✅ They are running out of space to store their files.
+❌ They want to browse the web.
+❌ Their computer keeps overheating due to heavy use.
+
+Question 10:
+What is the most likely cause of the projector shutting down?
+✅ The projector lamp might have overheated or burned out.
+
+"""
