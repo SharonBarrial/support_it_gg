@@ -114,4 +114,57 @@ Question 10:
 What is the most likely cause of the projector shutting down?
 ✅ The projector lamp might have overheated or burned out.
 
+//////////////////////////////////////////////////////////////////////////////////////////
+
+third attemp
+Question 1:
+Which computer component is a connection point that allows a computer to connect to other devices?
+✅ Port
+
+Question 2:
+What is the function of RAM on a computer?
+✅ It acts as a computer’s short term memory.
+
+Question 3:
+Which of the following are types of RAM?
+✅ DIMM
+✅ DRAM
+✅ DDR SDRAM
+❌ CRAM (not a standard RAM type)
+
+Question 4:
+Which of the following are considered mobile devices?
+✅ Smartphones
+✅ E-readers
+✅ Fitness monitors
+❌ Surge protectors
+
+Question 5:
+What is a charge cycle?
+✅ One full charge and discharge of a battery
+
+Question 6:
+If you want to be able to transfer 2 megabytes of data per second, what transfer speed do you need?
+✅ 16 Mb/s
+(Because 1 byte = 8 bits, 2 MB/s = 16 Mb/s)
+
+Question 7:
+A malfunctioning motherboard component is causing issues with your computer's graphics/video and memory. Which chip is most likely the culprit?
+✅ Northbridge
+
+Question 8:
+Which RPM speed indicates the fastest hard drive?
+✅ 10,000 RPM
+
+Question 9:
+Why might someone choose to upgrade their computer's storage?
+✅ They want their computer to boot up and load programs faster.
+✅ They are running out of space to store their files.
+❌ Their computer keeps overheating due to heavy use.
+❌ They want to browse the web.
+
+Question 10:
+Projector screen flickers and goes dark. What's the first thing you should check?
+✅ Inspect the cables connecting the projector to your laptop.
+
 """
