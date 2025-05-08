@@ -1,33 +1,42 @@
 """
-In the CIA triad, what does the letter ‘I’ stand for?
-✅ Integrity
+Who works in the background to ensure IT infrastructure is always running and disaster-free?
+✅ The system administrator (or sysadmin)
 
-Which of the following is an example of a zero-day vulnerability?
-✅ A group of hackers finds a flaw in a new software product and takes advantage of it before the vendor or developer finds it.
+Which are examples of IT infrastructure?
+✅ Computers employees use to access the Internet
+✅ An organization's website
+✅ File sharing service for project files
 
-What kind of malware can block access to data and decrease the availability of security by holding the system hostage?
-✅ Ransomware
+Which type of server most closely resembles a desktop computer?
+✅ Tower server
 
-What is it called when a hacker gets into a system through a secret entryway to gain remote access to the computer?
-✅ A backdoor
+What is a machine that uses services provided by a server called?
+✅ Client
 
-An employee at a company plugs a router into the corporate network to make a simple wireless network. An attacker outside the building uses it to get access to the corporate network. What is the name of this type of attack?
-✅ A rogue AP (Access Point) attack
+What are some disadvantages of cloud computing?
+✅ Becoming dependent on the cloud provider
+✅ It could potentially cost more
 
-Which of the following can occur during a ping of death (POD) attack? (Select all that apply)
-✅ Execution of malicious code
-✅ A buffer overflow
+(Using less local storage and avoiding hardware management are advantages, not disadvantages.)
 
-What is it called when a hacker takes down multiple services very quickly with the help of botnets?
-✅ Distributed denial-of-service (DDoS)
+Which are considerations when developing computer policies?
+✅ Should users be able to view non-work-related websites, like Facebook?
+✅ Should users be able to install software
+✅ Should a password be set on an employee's company phone?
 
-Which of the following measures can prevent injection attacks? (Select all that apply)
-✅ Data sanitization
-✅ Input validation
+(Monitor brightness is usually left to user preference and not a core policy issue.)
 
-What kind of attack keeps trying different combinations of characters and letters until it gets password access to a system?
-✅ A brute force attack
+User gets machine serviced — which lifecycle stage?
+✅ Maintenance
 
-An email message tells a user there is a problem with the user’s bank account. The email directs the user to a login page that steals the user’s information. What is this called?
-✅ Phishing
+Filing an RMA for faulty machine — which lifecycle stage?
+✅ Maintenance
+
+Script sets up accounts and installs software — which lifecycle stage?
+✅ Deployment
+
+Which is not a main stage of the hardware lifecycle?
+✅ Recycling
+
+(The main stages are typically: Procurement, Deployment, Maintenance, and Retirement.)
 """
