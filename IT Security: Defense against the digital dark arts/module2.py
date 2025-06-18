@@ -1,5 +1,20 @@
 """
 Question 1
+Plaintext is the original message, whereas _____ is the encrypted message.
+algorithm
+ciphertext***
+digest
+cipher
+
+5.
+Question 5
+Of the following options, which are true of an ideal hash function? Select all that apply.
+A change in input is not correlated with the resulting change in the output.***
+It maps any amount of data to an output of fixed size.****
+They are deterministic.****
+It is possible to recover the original plaintext from the hash output.
+
+Question 1
 Studying how often letters and pairs of letters occur in a language is referred to as _______.
 codebreaking
 espionage
